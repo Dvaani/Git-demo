@@ -1,2 +1,4 @@
 # Git-demo
-Creating First Repository
+Creating First Repository/n
+git add <file_name> - stagged
+git -m "comment" -commit
